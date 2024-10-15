@@ -3,5 +3,5 @@ curl -X GET \
        -H 'Content-Type: application/json' \
        -H 'Authorization: Bearer TEST-1891*********915-03240*********af10bb44b*********ae58a9f-1*********' \
 
-
+[![.github/workflows/main.yml](https://github.com/EMMANUEL2811UNITEC/073f731906bac67aaa25b83abbf1f8782b1ab141/actions/workflows/main.yml/badge.svg)](https://github.com/EMMANUEL2811UNITEC/073f731906bac67aaa25b83abbf1f8782b1ab141/actions/workflows/main.yml)
        
